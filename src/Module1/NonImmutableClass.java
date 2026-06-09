@@ -1,3 +1,5 @@
+package Module1;
+
 public class NonImmutableClass {
 
     private String name;

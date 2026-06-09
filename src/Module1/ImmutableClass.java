@@ -1,3 +1,5 @@
+package Module1;
+
 public final class ImmutableClass {
     private final NonImmutableClass nonImmutableClass;
 
