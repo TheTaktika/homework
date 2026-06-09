@@ -24,7 +24,7 @@ public final class ImmutableClass {
         return nonImmutableClass.getAge();
     }
 
-    static void main(String[] args) {
+   public static void main(String[] args) {
         NonImmutableClass mutable = new NonImmutableClass("Vlad", 25);
         ImmutableClass immutable = new ImmutableClass(mutable);
 
