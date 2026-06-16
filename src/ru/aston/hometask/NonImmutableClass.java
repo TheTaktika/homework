@@ -1,16 +1,13 @@
-package Module1;
+package ru.aston.hometask;
 
 public class NonImmutableClass {
 
     private String name;
     private int age;
 
-    public NonImmutableClass (String name, int age) {
+    public NonImmutableClass(String name, int age) {
         this.name = name;
         this.age = age;
-    }
-
-    public NonImmutableClass(NonImmutableClass mutable) {
     }
 
     public String getName() {
