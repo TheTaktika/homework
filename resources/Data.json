@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Elizabeth",
+    "books": [
+      {
+        "title": "One Day in the Life of Ivan Denisovich",
+        "pages": 200,
+        "year": 1962
+      },
+      {
+        "title": "Le Morte d'Arthur",
+        "pages": 500,
+        "year": 1485
+      },
+      {
+        "title": "American Gods",
+        "pages": 400,
+        "year": 2001
+      },
+      {
+        "title": "The Master and Margarita",
+        "pages": 500,
+        "year": 1966
+      },
+      {
+        "title": "Dune",
+        "pages": 688,
+        "year": 1965
+      }
+    ]
+  },
+  {
+    "name": "James",
+    "books": [
+      {
+        "title": "The Master and Margarita",
+        "pages": 520,
+        "year": 2021
+      },
+      {
+        "title": "Slaughterhouse-Five",
+        "pages": 256,
+        "year": 1969
+      },
+      {
+        "title": "Crime and Punishment",
+        "pages": 700,
+        "year": 1870
+      },
+      {
+        "title": "The Little Prince",
+        "pages": 96,
+        "year": 1943
+      },
+      {
+        "title": "Gulliver's Travels",
+        "pages": 320,
+        "year": 1726
+      }
+    ]
+  },
+  {
+    "name": "Jennifer",
+    "books": [
+      {
+        "title": "Perfume",
+        "pages": 320,
+        "year": 1985
+      },
+      {
+        "title": "Robinson Crusoe",
+        "pages": 352,
+        "year": 1719
+      },
+      {
+        "title": "Love in the Time of Cholera",
+        "pages": 400,
+        "year": 1985
+      },
+      {
+        "title": "Fathers and Sons",
+        "pages": 280,
+        "year": 1862
+      },
+      {
+        "title": "Siddhartha",
+        "pages": 192,
+        "year": 1922
+      }
+    ]
+  },
+  {
+    "name": "Robert",
+    "books": [
+      {
+        "title": "Eugene Onegin",
+        "pages": 320,
+        "year": 1833
+      },
+      {
+        "title": "1984",
+        "pages": 350,
+        "year": 1949
+      },
+      {
+        "title": "The Great Gatsby",
+        "pages": 208,
+        "year": 1925
+      },
+      {
+        "title": "And Quiet Flows the Don",
+        "pages": 1280,
+        "year": 1928
+      },
+      {
+        "title": "A Clockwork Orange",
+        "pages": 208,
+        "year": 1962
+      }
+    ]
+  },
+  {
+    "name": "Patricia",
+    "books": [
+      {
+        "title": "In Search of Lost Time",
+        "pages": 3000,
+        "year": 2004
+      },
+      {
+        "title": "Cat's Cradle",
+        "pages": 304,
+        "year": 1963
+      },
+      {
+        "title": "Don Quixote",
+        "pages": 1024,
+        "year": 1605
+      },
+      {
+        "title": "The Glass Bead Game",
+        "pages": 600,
+        "year": 1943
+      },
+      {
+        "title": "War and Peace",
+        "pages": 1300,
+        "year": 1867
+      }
+    ]
+  },
+  {
+    "name": "Michael",
+    "books": [
+      {
+        "title": "Norwegian Wood",
+        "pages": 320,
+        "year": 1987
+      },
+      {
+        "title": "The Master and Margarita",
+        "pages": 480,
+        "year": 1967
+      },
+      {
+        "title": "Doctor Zhivago",
+        "pages": 650,
+        "year": 1957
+      },
+      {
+        "title": "Steppenwolf",
+        "pages": 256,
+        "year": 1927
+      },
+      {
+        "title": "Ulysses",
+        "pages": 800,
+        "year": 1922
+      }
+    ]
+  },
+  {
+    "name": "John",
+    "books": [
+      {
+        "title": "1984",
+        "pages": 328,
+        "year": 1949
+      },
+      {
+        "title": "The Brothers Karamazov",
+        "pages": 920,
+        "year": 1880
+      },
+      {
+        "title": "The Woman in the Dunes",
+        "pages": 288,
+        "year": 1962
+      },
+      {
+        "title": "Dead Souls",
+        "pages": 360,
+        "year": 1842
+      },
+      {
+        "title": "Crime and Punishment",
+        "pages": 672,
+        "year": 1866
+      }
+    ]
+  },
+  {
+    "name": "William",
+    "books": [
+      {
+        "title": "The Gulag Archipelago",
+        "pages": 700,
+        "year": 1973
+      },
+      {
+        "title": "Romance of the Three Kingdoms",
+        "pages": 800,
+        "year": 1522
+      },
+      {
+        "title": "Anna Karenina",
+        "pages": 864,
+        "year": 1877
+      },
+      {
+        "title": "A Hero of Our Time",
+        "pages": 210,
+        "year": 1840
+      },
+      {
+        "title": "Kafka on the Shore",
+        "pages": 512,
+        "year": 2002
+      }
+    ]
+  },
+  {
+    "name": "Linda",
+    "books": [
+      {
+        "title": "To Kill a Mockingbird",
+        "pages": 352,
+        "year": 1960
+      },
+      {
+        "title": "The Catcher in the Rye",
+        "pages": 224,
+        "year": 1951
+      },
+      {
+        "title": "Hamlet",
+        "pages": 200,
+        "year": 1603
+      },
+      {
+        "title": "One Hundred Years of Solitude",
+        "pages": 448,
+        "year": 1967
+      },
+      {
+        "title": "1984",
+        "pages": 340,
+        "year": 1950
+      }
+    ]
+  },
+  {
+    "name": "Mary",
+    "books": [
+      {
+        "title": "The Idiot",
+        "pages": 600,
+        "year": 1869
+      },
+      {
+        "title": "War and Peace",
+        "pages": 1225,
+        "year": 1869
+      },
+      {
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "pages": 192,
+        "year": 2009
+      },
+      {
+        "title": "Macbeth",
+        "pages": 180,
+        "year": 1623
+      },
+      {
+        "title": "Oblomov",
+        "pages": 450,
+        "year": 1859
+      }
+    ]
+  }
+]
