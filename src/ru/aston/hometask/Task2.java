@@ -9,7 +9,7 @@ import java.util.List;
 
 public class Task2 {
 
-    public static void main(String[] args) throws IOException {
+    static void showResultFromTask2() throws IOException{
         ObjectMapper mapper = new ObjectMapper();
 
         List<Student> students = mapper.readValue(Paths.get("resources\\Data.json")
@@ -28,6 +28,10 @@ public class Task2 {
                         year -> System.out.println("Release year: " + year),
                         () -> System.out.println("Book does not found")
                 );
+    }
+
+    public static void main(String[] args) throws IOException {
+        Task2.showResultFromTask2();
     }
 
 }

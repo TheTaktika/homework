@@ -5,9 +5,6 @@ public class Book {
     private int pages;
     private int year;
 
-    public Book() {
-    }
-
     public int getPages() {
         return pages;
     }
