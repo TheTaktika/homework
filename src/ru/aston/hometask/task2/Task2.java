@@ -1,4 +1,4 @@
-package ru.aston.hometask;
+package ru.aston.hometask.task2;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 

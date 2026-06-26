@@ -3,6 +3,8 @@ package ru.aston.hometask;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Test;
+import ru.aston.hometask.task2.Book;
+import ru.aston.hometask.task2.Student;
 
 import java.io.IOException;
 import java.io.InputStream;
