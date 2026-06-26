@@ -1,4 +1,4 @@
-package ru.aston.hometask;
+package ru.aston.hometask.task1;
 
 public final class ImmutableClass {
     private final NonImmutableClass nonImmutableClass;

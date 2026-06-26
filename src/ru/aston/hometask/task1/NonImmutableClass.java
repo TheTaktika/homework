@@ -1,4 +1,4 @@
-package ru.aston.hometask;
+package ru.aston.hometask.task1;
 
 public class NonImmutableClass {
 
